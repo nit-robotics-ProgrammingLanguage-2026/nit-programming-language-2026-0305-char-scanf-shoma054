@@ -1,8 +1,10 @@
 #include <stdio.h>
 
-int main(void) {
-    /* 課題0305: ここに自分で必要なプログラムを書きなさい */
+int main(void)
+{
+    char c;
+    scanf("%C",&c);
+    printf("%c", c);
     
-
     return 0;
 }
